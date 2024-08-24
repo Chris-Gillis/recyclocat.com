@@ -1,1 +1,1 @@
-![Recyclocat](/docs/assets/images/recyclocat.png)
+![Image](/docs/assets/images/recyclocat.png)
