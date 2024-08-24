@@ -1,1 +1,1 @@
-# recyclocat.com
+![Recyclocat](/docs/assets/images/recyclocat.png)
